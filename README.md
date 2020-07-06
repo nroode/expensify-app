@@ -1,4 +1,4 @@
-# IndecisionApp
-Utilized React, Scss, Flexbox to build this twist on a traditional task list app
+# Expensify
+Utilize React, Scss, Redux, React Router
 
 Built this app as part of Andrew Mead's React course
